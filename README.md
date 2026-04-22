@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝       ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=750&lines=Full-Stack+Engineer+%7C+AI+Systems+Builder;Knowledge+Graphs+·+RAG+Pipelines+·+Agentic+AI;Cybersecurity+Enthusiast+%7C+Prompt+Architect;I+don't+just+use+AI+—+I+engineer+it.+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=false&width=750&lines=Full-Stack+Engineer+%7C+AI+Systems+Builder;Knowledge+Graphs+%C2%B7+RAG+Pipelines+%C2%B7+Agentic+AI;Cybersecurity+Enthusiast+%7C+Prompt+Architect;I+don%27t+just+use+AI+%E2%80%94+I+engineer+it.+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
