@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0f0f1a?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0f0f1a)](https://github.com/Prbhvgaur)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0f0f1a?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0f0f1a)](https://prabhav-gaur-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhav-gaur)
 [![Twitter / X](https://img.shields.io/badge/@prabhav___Gaur-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prabhav___Gaur)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhavgaur77@gmail.com)
