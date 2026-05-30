@@ -194,6 +194,12 @@ drwxr-xr-x  Certifications/
 
 ### `> git log --graph --stat`
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prbhvgaur&theme=midnight-purple&hide_border=true&background=0d0d14&stroke=A855F7&ring=A855F7&fire=F97316&currStreakLabel=A855F7&sideLabels=e2e2e2&dates=888888" />
